@@ -13,7 +13,7 @@ In addition to paper presentations and poster sessions, the conference features 
 
 The conference program, book of abstracts and other information are available here:
 
-* Proceedings [(intro)](proceedings/html/index.html) [(LiU E-Press)](http://www.ep.liu.se/ecp/contents.asp?issue=118) [(zip)](https://github.com/modelica/ModelicaConference2017/releases/download/USB/MODELICA2017_proceedings.zip)
+* Proceedings [(intro)](proceedings/html/index.html) [(LiU E-Press)](http://www.ep.liu.se/ecp/contents.asp?issue=118) [(zip)](https://github.com/modelica/ModelicaConference2017/releases/download/USB/Modelica2017-Proceedings-HTML.zip)
 * [Conference Program](proceedings/html/ProgramViewing.pdf)
 * [Vendor Presentations](proceedings/html/vendors.html)
 * [Sponsors and Exhibitors](sponsors.md)
