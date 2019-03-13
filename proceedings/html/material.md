@@ -1,7 +1,7 @@
 <h2>Further Material</h2>
 <br />
 <h3>Full Conference Proceedings</h3>
-<p><a href="ProceedingsOfThe12thInternationalModelicaConference.pdf">Full conference proceedings in a single PDF.</a></p>
+<p><a href="ProceedingsOfThe12thInternationalModelicaConference.pdf.xz">Full conference proceedings in a single PDF.</a></p>
 
 <h3>Conference Program Booklet</h3>
 <p><a href="Program.pdf">Conference program booklet</a>.</p>
