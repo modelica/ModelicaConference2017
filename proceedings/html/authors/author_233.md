@@ -1,0 +1,6 @@
+<h2>Papers by Oscar Salgado:</h2>
+<p>
+<b>Title:</b> <i> Model-based virtual sensors by means of Modelica and FMI </i> <br />
+<b>Authors:</b> <a href="../authors/author_88.html">Mikel Gonzalez Cocho</a>, <a href="../authors/author_233.html">Oscar Salgado</a>, <a href="../authors/author_50.html">Jan Croes</a>, <a href="../authors/author_218.html">Bert Pluymers</a> and <a href="../authors/author_58.html">Wim Desmet</a><br />
+<b>Abstract:</b>This paper presents an application case for the estimation of forces using  Modelica and the FMI. For that purpose state estimation and model-based virtual sensors are used. These techniques are presented and the development of the state estimation and virtual sensor library for Modelica and the FMI is discussed. This library is developed in Python where the package pyFMI is used with models exported with the FMI 2.0 for model exchange. The technique is used for the estimation of forces and the friction coefficient in a scaled test bench of a vertical transportation system. The model of this test bench is explained and the results of the estimation of forces and the friction coefficient are discussed.<br />
+<b>Links:</b> <a href="../submissions/ecp17132337_GonzalezcochoSalgadoCroesPluymersDesmet.pdf">Full paper</a></p>

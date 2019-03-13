@@ -1,0 +1,6 @@
+<h2>Papers by Rubén Mocholí Montañés:</h2>
+<p>
+<b>Title:</b> <i> Dynamic Simulations of the Post-combustion CO2 Capture System of a Combined Cycle Power Plant </i> <br />
+<b>Authors:</b> <a href="../authors/author_182.html">Rubén Mocholí Montañés</a> and <a href="../authors/author_200.html">Lars Olof Nord</a><br />
+<b>Abstract:</b>Dynamic process models of the capture unit of a 600 MW combined cycle power plant with post-combustion CO2 capture were developed in the Modelica language. The process models were utilized to understand the transient response of the capture unit when the plant was initially operated at steady-state conditions at different power plant’s loads. Simulations to characterize the open-loop response of main process variables of the process to step-change disturbances in flue gas mass flow rate, solvent circulation mass flow rate and reboiler duty were performed. It was found that the plant was slower when operated at lower loads, i.e., it required longer total stabilization times for the most relevant variables of the process. Simulations revealed that the PCC unit responded significantly faster to an increase in exhaust gas mass flow rate than to a reduction in exhaust gas mas flow rate.<br />
+<b>Links:</b> <a href="../submissions/ecp17132111_MocholimontanesNord.pdf">Full paper</a></p>

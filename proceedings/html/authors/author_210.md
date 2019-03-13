@@ -1,0 +1,6 @@
+<h2>Papers by Anne Paepcke:</h2>
+<p>
+<b>Title:</b> <i> Co-Simulation between detailed building energy performance simulation and Modelica HVAC component models </i> <br />
+<b>Authors:</b> <a href="../authors/author_196.html">Andreas Nicolai</a> and <a href="../authors/author_210.html">Anne Paepcke</a><br />
+<b>Abstract:</b>We discuss the application of the FMI Co-Simulation technology to building energy performance simulation, where detailed physical building models are coupled to Modelica-based HVAC component and plant models. First, we describe the generation process of the building FMU from our stand-alone building simulation program NANDRAD and sketch out internal algorithms for FMI version 2 capabilities. Then, coupling scenarios are described and physical interface conventions are presented. Usability is addressed by automatic generation of building-model specific adapters and wrappers. The building FMU and plant FMUs are then simulated together using different Co-Simulation master algorithms. Finally, based on simulation results and performance analysis we conclude with recommendations on suitable master algorithm options and specific features of suitable building FMUs.<br />
+<b>Links:</b> <a href="../submissions/ecp1713263_NicolaiPaepcke.pdf">Full paper</a></p>

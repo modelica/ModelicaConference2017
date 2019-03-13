@@ -1,0 +1,6 @@
+<h2>Papers by Maike Ketelhut:</h2>
+<p>
+<b>Title:</b> <i> Towards Medical Cyber-Physical Systems: Modelica and FMI based Online Parameter Identification of the Cardiovascular System </i> <br />
+<b>Authors:</b> <a href="../authors/author_85.html">Jonas Gesenhues</a>, <a href="../authors/author_104.html">Marc Hein</a>, <a href="../authors/author_137.html">Maike Ketelhut</a>, <a href="../authors/author_4.html">Thivaharan Albin</a> and <a href="../authors/author_0.html">Dirk Abel</a><br />
+<b>Abstract:</b>This paper presents a concept for online parameter identification intended to be used within cardiovascular research labs and hospitals of the future featuring a data network of medical sensors. It is based on iterative nonlinear optimization using a moving horizon scheme and object-oriented Modelica models. Special FMUs have been developed to interface the optimization module and the sensor hardware. The concept is demonstrated on an exemplary application of identifying the parameters of a model for the systemic circulation. Unlike classical online parameter identification methods, this concept allows for quickly implementing changes of the underlying model.<br />
+<b>Links:</b> <a href="../submissions/ecp17132613_GesenhuesHeinKetelhutAlbinAbel.pdf">Full paper</a></p>

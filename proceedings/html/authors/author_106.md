@@ -1,0 +1,6 @@
+<h2>Papers by Toivo Henningsson:</h2>
+<p>
+<b>Title:</b> <i> Innovations for Future Modelica </i> <br />
+<b>Authors:</b> <a href="../authors/author_65.html">Hilding Elmqvist</a>, <a href="../authors/author_106.html">Toivo Henningsson</a> and <a href="../authors/author_209.html">Martin Otter</a><br />
+<b>Abstract:</b>This paper discusses language innovations for future Modelica versions, on the one hand for generally applicable language elements, and on the other hand to improve modeling of multibody systems with contacts, and media modeling. In a companion paper new algorithms are proposed to handle much larger models than can be treated today. All these innovations are developed and evaluated with the experimental modeling and simulation environment Modia. Modia is based on Julia, a powerful programming language with strong focus on scientific computing, meta-programming and just-in-time compilation that allows very fast development. The modeling language is directly defined and implemented with Julia’s meta-programming constructs and is designed tightly together with the symbolic and numeric algorithms. This approach is very well suited for innovation and experimenting with evolutions of modeling capabilities in Modelica.<br />
+<b>Links:</b> <a href="../submissions/ecp17132693_ElmqvistHenningssonOtter.pdf">Full paper</a></p>

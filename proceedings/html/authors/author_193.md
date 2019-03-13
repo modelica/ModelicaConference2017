@@ -1,0 +1,6 @@
+<h2>Papers by Maroun Nemer:</h2>
+<p>
+<b>Title:</b> <i> Cabin Thermal Needs: Modeling and Assumption Analysis </i> <br />
+<b>Authors:</b> <a href="../authors/author_35.html">Florent Breque</a> and <a href="../authors/author_193.html">Maroun Nemer</a><br />
+<b>Abstract:</b>Interest for cabin thermal needs has strongly increased for the past 10 years, particularly due to heating. Indeed, the development of electric and hybrid vehicles put a focus on the HVAC, this high-consuming auxiliary, which can dramatically decrease the vehicle electric range. Thus, this paper presents a detailed transient and mono-zonal model of a car cabin in order to predict the thermal needs. The model is developed using the MODELICA language via the DYMOLA environment. It considers conduction, convection, radiation heat transfers as well as the HVAC and water vapor impacts. The different assumptions of the model are discussed and important considerations usually not discussed are pointed out. The thermal loads are analyzed. Finally, the heating and cooling thermal needs are computed for steady state mode and for convergence mode as well as for varying recirculation ratios. This work is useful to better understand what is behind cabin thermal needs.<br />
+<b>Links:</b> <a href="../submissions/ecp17132771_BrequeNemer.pdf">Full paper</a></p>

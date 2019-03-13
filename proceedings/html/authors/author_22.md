@@ -1,0 +1,6 @@
+<h2>Papers by Francois P. Beaude:</h2>
+<p>
+<b>Title:</b> <i> A Modelica-based Tool for Power System Dynamic Simulations </i> <br />
+<b>Authors:</b> <a href="../authors/author_155.html">Gladys E. Leon</a>, <a href="../authors/author_22.html">Francois P. Beaude</a> and <a href="../authors/author_110.html">Jean-Baptiste Heyberger</a><br />
+<b>Abstract:</b>Developments made during the EU FP7 funded project iTesla towards automatic ways of transforming powers systems from proprietary format to Modelica, served as a proof of concept for the adoption of Modelica as a common and standardized language for power system modelling and simulation. This work is a continuation of the progresses made during the iTesla. This paper presents a Modelica-based tool developed with the main purpose of providing users with an easy way to generate power system networks in Modelica and perform time-domain simulations. The tool is validated by generating Modelica systems for IEEE cases and comparing simulation outputs with a reference tool (Eurostag).<br />
+<b>Links:</b> <a href="../submissions/ecp17132235_LeonBeaudeHeyberger.pdf">Full paper</a></p>

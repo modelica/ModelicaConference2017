@@ -1,0 +1,7 @@
+<h2>Papers by Torsten Schwan:</h2>
+<p>
+<b>Title:</b> <i> Aspects of FMI in Building Simulation </i> <br />
+<b>Authors:</b> <a href="../authors/author_245.html">Torsten Schwan</a>, <a href="../authors/author_284.html">René Unger</a> and <a href="../authors/author_216.html">Jörg Pipiorke</a><br />
+<b>Abstract:</b>Building physics and HVAC system simulation have become an important usage scenario of the Modelica modeling language and related simulation tools since the publication of first adequate libraries (Wetter, 2009). In 2010, the tool independent standard FMI was published in version 1.0. It enables the exchange of models between different simulation tools and even different modeling approaches. Although, automotive industry mainly initiated the FMI development, it can extensively benefit building simulation, too.
+This paper describes four completely different applications of FMI in the building simulation environment which even extend the basic idea of simple model exchange. This includes the description of developed models as well as additionally required software components implementing the FMI standard.<br />
+<b>Links:</b> <a href="../submissions/ecp1713273_SchwanUngerPipiorke.pdf">Full paper</a></p>

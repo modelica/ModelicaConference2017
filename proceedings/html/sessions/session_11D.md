@@ -1,0 +1,18 @@
+<h2>Session 11D: Aerospace</h2>
+<p>
+<b>Title:</b> <i> The Jet Propulsion Library: Modeling and simulation of aircraft engines </i> <br />
+<b>Authors:</b> <a href="../authors/author_250.html">Michael Sielemann</a>, <a href="../authors/author_217.html">Anand Pitchaikani</a>, <a href="../authors/author_248.html">Nithish Selvan</a> and <a href="../authors/author_235.html">Majed Sammak</a><br />
+<b>Abstract:</b>The Jet Propulsion Library provides a foundation for modeling and simulation of jet engines, and the model-based design of integrated aircraft systems. It provides a fully rigorous foundation for sizing and performance computations, and provides a number of advantages over existing domain-specific solutions due to the use of the Modelica language. This paper provides an introduction and overview of the new library and describes an application in the design of a turbo fan engine.<br />
+<b>Links:</b> <a href="../submissions/ecp17132909_SielemannPitchaikaniSelvanSammak.pdf">Full paper</a></p>
+<hr />
+<p>
+<b>Title:</b> <i> Virtual flight testing of a controller for gust load alleviation using FMI for cosimulation </i> <br />
+<b>Authors:</b> <a href="../authors/author_188.html">Reiko Müller</a> and <a href="../authors/author_230.html">Markus Ritter</a><br />
+<b>Abstract:</b>During aircraft design and certification, one of the most vital development tasks is the calculation of loads and stresses, subsequent structural sizing and iterative mutual adaptation with respect to the aircraft’s systems. In an effort to build up a so called virtual flight testing capability in the DLR-wide project Digital-X (2012 - 2016), a simulation of a flexible aircraft model coupled with CFD based aerodynamics and a flight control system with included Gust Load Alleviation (GLA) was developed and subjected to a certification relevant gust encounter scenario. Due to the diversity of modeling and simulation tools present in the DLR, the Functional Mockup Interface (FMI) 2.0 model interfacing standard has been successfully employed to cosimulate the control system inside the enclosing simulation framework.<br />
+<b>Links:</b> <a href="../submissions/ecp17132921_MullerRitter.pdf">Full paper</a></p>
+<hr />
+<p>
+<b>Title:</b> <i> The DLR Environment Library for Multi-Disciplinary Aerospace Applications </i> <br />
+<b>Authors:</b> <a href="../authors/author_36.html">Lâle Evrim Briese</a>, <a href="../authors/author_139.html">Andreas Klöckner</a> and <a href="../authors/author_228.html">Matthias Reiner</a><br />
+<b>Abstract:</b>Environment models are vital elements for any type of vehicle dynamics simulations, such as aircraft or satellites. Recently, applications have been developed, where these previously unrelated regimes of operation need to be integrated, for example in end-to-end simulations of launch vehicles. This paper therefore introduces the new DLR Environment Library, which implements common models of planets, geospheres, currents, kinematics, and physical effects for such applications. It provides a set of environment models with minimal dependencies, complete compatibility to the Modelica Standard Library, and convenient drag & drop usage. The DLR Environment Library is expected to immensely aid developing end-to-end simulation models integrating components from DLR's SpaceSystems and FlightDynamics Libraries. In particular, it will importantly decrease modeling errors due to its consistent environment models.<br />
+<b>Links:</b> <a href="../submissions/ecp17132929_BrieseKlocknerReiner.pdf">Full paper</a></p>

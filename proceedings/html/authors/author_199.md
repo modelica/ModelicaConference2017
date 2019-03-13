@@ -1,0 +1,7 @@
+<h2>Papers by Kenichiro Nonaka:</h2>
+<p>
+<b>Title:</b> <i> Modeling and Simulation of Wheel Driving Systems based on Terramechanics for Planetary Explanation Rover using Modelica </i> <br />
+<b>Authors:</b> <a href="../authors/author_304.html">Hiroki Yoshikawa</a>, <a href="../authors/author_203.html">Takatsugu Oda</a>, <a href="../authors/author_199.html">Kenichiro Nonaka</a> and <a href="../authors/author_247.html">Kazuma Sekiguchi</a><br />
+<b>Abstract:</b>Planetary exploration rovers have to accomplish various missions on uneven and loose terrain. In recent years, systems of rovers adopting terramechanics which determine the force and moment characteristics of the wheel on loose soil is studied. In this study, using Modelica language, we construct a wheel model based on terramechanics, and we identify the wheel characteristics as a linear for a control. We conduct a numerical simulation of the rover using a controller including the identified longitudinal force model. It is shown that when the rover follows a straight line on a plane, the longitudinal force model identified using known soil parameters has sufficient accuracy
+on the wheel response based on terramechanics and could be used as a control model.<br />
+<b>Links:</b> <a href="../submissions/ecp17132901_YoshikawaOdaNonakaSekiguchi.pdf">Full paper</a></p>

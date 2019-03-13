@@ -1,0 +1,6 @@
+<h2>Papers by Richard Meyer:</h2>
+<p>
+<b>Title:</b> <i> Application of Richardson Extrapolation to the Co-Simulation of FMUs from Building Simulation </i> <br />
+<b>Authors:</b> <a href="../authors/author_45.html">Christoph Clauss</a>, <a href="../authors/author_168.html">Kristin Majetta</a> and <a href="../authors/author_180.html">Richard Meyer</a><br />
+<b>Abstract:</b>The application of the FMI technology gains ground in building simulation. As far as specialized tools support the FMI simulator coupling becomes an important option to simulate complex building models. Co-simulation needs a master algorithm which controls the communication time steps as well as the signal exchange between FMUs. Often a constant communication step size is applied chosen by the user. The Richardson extrapolation approach allows variable master step sizes. An extension of this approach is presented, and the method is applied to both academic test examples as well as examples of building simulation which co-simulate FMUs from NANDRAD and SimulationX. Richardson extrapolation turns out to guarantee finding an appropriate step size at the prize of downgraded performance.<br />
+<b>Links:</b> <a href="../submissions/ecp1713279_ClaussMajettaMeyer.pdf">Full paper</a></p>

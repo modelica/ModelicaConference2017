@@ -1,0 +1,6 @@
+<h2>Papers by Reiko Müller:</h2>
+<p>
+<b>Title:</b> <i> Virtual flight testing of a controller for gust load alleviation using FMI for cosimulation </i> <br />
+<b>Authors:</b> <a href="../authors/author_188.html">Reiko Müller</a> and <a href="../authors/author_230.html">Markus Ritter</a><br />
+<b>Abstract:</b>During aircraft design and certification, one of the most vital development tasks is the calculation of loads and stresses, subsequent structural sizing and iterative mutual adaptation with respect to the aircraft’s systems. In an effort to build up a so called virtual flight testing capability in the DLR-wide project Digital-X (2012 - 2016), a simulation of a flexible aircraft model coupled with CFD based aerodynamics and a flight control system with included Gust Load Alleviation (GLA) was developed and subjected to a certification relevant gust encounter scenario. Due to the diversity of modeling and simulation tools present in the DLR, the Functional Mockup Interface (FMI) 2.0 model interfacing standard has been successfully employed to cosimulate the control system inside the enclosing simulation framework.<br />
+<b>Links:</b> <a href="../submissions/ecp17132921_MullerRitter.pdf">Full paper</a></p>

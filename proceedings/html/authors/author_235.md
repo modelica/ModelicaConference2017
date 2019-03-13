@@ -1,0 +1,6 @@
+<h2>Papers by Majed Sammak:</h2>
+<p>
+<b>Title:</b> <i> The Jet Propulsion Library: Modeling and simulation of aircraft engines </i> <br />
+<b>Authors:</b> <a href="../authors/author_250.html">Michael Sielemann</a>, <a href="../authors/author_217.html">Anand Pitchaikani</a>, <a href="../authors/author_248.html">Nithish Selvan</a> and <a href="../authors/author_235.html">Majed Sammak</a><br />
+<b>Abstract:</b>The Jet Propulsion Library provides a foundation for modeling and simulation of jet engines, and the model-based design of integrated aircraft systems. It provides a fully rigorous foundation for sizing and performance computations, and provides a number of advantages over existing domain-specific solutions due to the use of the Modelica language. This paper provides an introduction and overview of the new library and describes an application in the design of a turbo fan engine.<br />
+<b>Links:</b> <a href="../submissions/ecp17132909_SielemannPitchaikaniSelvanSammak.pdf">Full paper</a></p>

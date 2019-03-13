@@ -1,0 +1,6 @@
+<h2>Papers by Mareike Leimeister:</h2>
+<p>
+<b>Title:</b> <i> The OneWind Modelica Library for Floating Offshore Wind Turbine Simulations with Flexible Structures </i> <br />
+<b>Authors:</b> <a href="../authors/author_154.html">Mareike Leimeister</a> and <a href="../authors/author_271.html">Philipp Thomas</a><br />
+<b>Abstract:</b>Floating offshore wind turbines are getting more and more into the focus of interest, as industries aim for larger turbines and deeper water areas. Fully coupled analyses of those highly complex systems are challenging. In this paper, the hierarchical programming structure in Modelica is used to model a fully flexible floating wind turbine system. The single components, as well as special difficulties that have to be dealt with during modeling are addressed. On basis of a reference floating offshore wind turbine, the implemented fully flexible model is compared with its rigid equivalent, as well as results from code-to-code comparisons of free-decay simulations. In addition, further applications of the created model are shown.<br />
+<b>Links:</b> <a href="../submissions/ecp17132633_LeimeisterThomas.pdf">Full paper</a></p>

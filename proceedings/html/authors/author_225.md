@@ -1,0 +1,9 @@
+<h2>Papers by Jörg Rädler:</h2>
+<p>
+<b>Title:</b> <i> Template based code generation of  Modelica building energy simulation models </i> <br />
+<b>Authors:</b> <a href="../authors/author_201.html">Christoph Nytsch-Geusen</a>, <a href="../authors/author_119.html">Alexander Inderfurth</a>, <a href="../authors/author_133.html">Werner Kaul</a>, <a href="../authors/author_185.html">Katharina Mucha</a>, <a href="../authors/author_225.html">Jörg Rädler</a>, <a href="../authors/author_272.html">Matthis Thorade</a> and <a href="../authors/author_282.html">Carles Ribas Tugores</a><br />
+<b>Abstract:</b>This contribution describes an approach for a template based code generation for different detailed Modelica models for building energy simulation (BES). 
+The information from several data sources, which describe the building geometry, the building construction, the building location and the building itself, is used to fill a building data model. This intermediate data structure is still independent of a certain building simulation tool. 
+A new developed tool for template based code generation (CoTeTo) uses the building data model and combines it with a set of different code generators, which are able to generate Modelica building models with a different level of detail: Strong simplified low-order building models for district energy simulation with a large population of buildings, more advanced multi-zone building models for building energy simulation and 3D space resolved room models for a detailed indoor climate analysis.
+Three case studies for the mentioned building model types demonstrate the code generation approach.<br />
+<b>Links:</b> <a href="../submissions/ecp17132199_NytschgeusenInderfurthKaulMuchaRadlerThoradeTugores.pdf">Full paper</a></p>

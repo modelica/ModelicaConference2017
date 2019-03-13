@@ -1,0 +1,6 @@
+<h2>Papers by Erik Durling:</h2>
+<p>
+<b>Title:</b> <i> FMI and IP protection of models: A survey of use cases and support in the standard </i> <br />
+<b>Authors:</b> <a href="../authors/author_62.html">Erik Durling</a>, <a href="../authors/author_211.html">Elias Palmkvist</a> and <a href="../authors/author_105.html">Maria Henningsson</a><br />
+<b>Abstract:</b>FMI is increasingly being adopted as a standard for exchanging simulation models within and between organizations. Such models often represent significant investments for the model creator. There is thus a large interest in protecting intellectual property while collaborating and sharing simulation model in the form of FMUs. This paper presents a collection of use cases and issues related to IP protection of model contents that have been identified in interviews with industrial representatives. The requirements in each use case are described, along with an investigation of how well the use cases can be managed within the current version of the FMI standard, and proposed extension of the standard.<br />
+<b>Links:</b> <a href="../submissions/ecp17132329_DurlingPalmkvistHenningsson.pdf">Full paper</a></p>

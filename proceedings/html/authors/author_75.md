@@ -1,0 +1,6 @@
+<h2>Papers by Jörg Fritzsche:</h2>
+<p>
+<b>Title:</b> <i> From system model to optimal control - A tool chain for the efficient solution of optimal control problems </i> <br />
+<b>Authors:</b> <a href="../authors/author_90.html">Manuel Gräber</a>, <a href="../authors/author_75.html">Jörg Fritzsche</a> and <a href="../authors/author_268.html">Wilhelm Tegethoff</a><br />
+<b>Abstract:</b>Based on a specific application example - the thermal management system of an internal combustion engine - a toolchain is presented for formulating and solving of nonlinear optimal control problems. Starting from graphical modeling of the thermal management system with the Modelica library TIL, the model is exported to the standardized model exchange format Functional Mock-up Interface (FMI). Furthermore, it is imported to the optimal control software package MUSCOD-II. Python is used as scripting language for the problem formulation, the numerical solution and the processing of results. By using FMI as an interface, models from any simulation and modeling tools can be used if there is an FMI model export and the models fulfill certain mathematical requirements (smoothness).<br />
+<b>Links:</b> <a href="../submissions/ecp17132249_GraberFritzscheTegethoff.pdf">Full paper</a></p>

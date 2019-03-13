@@ -1,0 +1,7 @@
+<h2>Papers by Lars Mikelsons:</h2>
+<p>
+<b>Title:</b> <i> Towards Virtual Validation of ECU Software using FMI </i> <br />
+<b>Authors:</b> <a href="../authors/author_181.html">Lars Mikelsons</a> and <a href="../authors/author_234.html">Roland Samlaus</a><br />
+<b>Abstract:</b>Connected, Automated, Electrified. These three trends in the automotive industry require rethinking of the use of simulation respectively models. The use of models for evaluation of new concepts or stimulating the unit-under-test (in HiL testing), already firmly rooted in the development process of software functions, will not be sufficient to realize visions like autonomous driving or update-over-the-air. One key enabler for such technologies is virtual validation, i.e. the validation or release of software functions in a pure virtual setup. That is, simulation is not only a tool to shorten the development cycle, but one of the key technologies to release future software functions, e.g. highly automated or autonomous driving. 
+In this contribution a feasibility study for the validation of FMI-based virtual ECUs (vECUs) in a co-simulation setup is presented. Thereby, the powertrain and the vECU are represented by FMUs, while the tool CarMaker is used for vehicle dynamics. On the base of the gained experience requirements for the FMI standard are formulated that would allow to go for virtual validation of future software functions.<br />
+<b>Links:</b> <a href="../submissions/ecp17132307_MikelsonsSamlaus.pdf">Full paper</a></p>

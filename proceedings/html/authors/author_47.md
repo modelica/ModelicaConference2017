@@ -1,0 +1,8 @@
+<h2>Papers by Remi Corniglion:</h2>
+<p>
+<b>Title:</b> <i> Scaling FMI-CS Based Multi-Simulation Beyond Thousand FMUs on Infiniband Cluster </i> <br />
+<b>Authors:</b> <a href="../authors/author_288.html">Stephane Vialle</a>, <a href="../authors/author_267.html">Jean-Philippe Tavella</a>, <a href="../authors/author_51.html">Cherifa Dad</a>, <a href="../authors/author_47.html">Remi Corniglion</a>, <a href="../authors/author_42.html">Mathieu Caujolle</a> and <a href="../authors/author_227.html">Vincent Reinbold</a><br />
+<b>Abstract:</b>In recent years, co-simulation has become an increasingly industrial tool to simulate Cyber Physical Systems including multi-physics and control, like smart electric grids, since it allows to involve different modeling tools within the same temporal simulation. The challenge now is to integrate in a single calculation scheme very numerous and intensely inter-connected models, and to do it without any loss in model accuracy. This will avoid neglecting fine phenomena or moving away from the basic principle of equation-based modeling.
+
+Offering both a large number of computing cores and a large amount of distributed memory, multi-core PC clusters can address this key issue in order to achieve huge multi-simulations in acceptable time. This paper introduces all our efforts to parallelize and distribute our co-simulation environment based on the FMI for Co-Simulation standard (FMI-CS). At the end of 2016 we succeeded to scale beyond 1000 FMUs and 1000 computing cores on different PC-clusters, including the most recent HPC Infiniband-cluster available at EDF.<br />
+<b>Links:</b> <a href="../submissions/ecp17132673_VialleTavellaDadCorniglionCaujolleReinbold.pdf">Full paper</a></p>

@@ -1,0 +1,6 @@
+<h2>Papers by Tatsuro Ishibashi:</h2>
+<p>
+<b>Title:</b> <i> Rotating Machinery Library for Diagnosis </i> <br />
+<b>Authors:</b> <a href="../authors/author_121.html">Tatsuro Ishibashi</a>, <a href="../authors/author_99.html">Bing Han</a> and <a href="../authors/author_134.html">Tadao Kawai</a><br />
+<b>Abstract:</b>This paper presents our new rotating machinery library. Diagnosing the complex system accurately based on stochastic method requires an enormous amount of data, both with and without faults. Acquiring operation data with all kinds of faults for each components is very hard and costly. To generate data for rotating machinery diagnosis, we developed rotating machinery library using Modelica. It provides the basic components such as rotor, shaft, bearing, coupling, housing and support. Its component models are implemented on basis of rotor dynamics theory. This library makes it possible accessing rotating machinery operation data with various faults such as unbalanced rotor, shaft bending and ball bearing faults. To validate our models, we compared both Modelica simulation and experiment with a rotor kit as a test case.<br />
+<b>Links:</b> <a href="../submissions/ecp17132381_IshibashiHanKawai.pdf">Full paper</a></p>

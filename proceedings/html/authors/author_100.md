@@ -1,0 +1,6 @@
+<h2>Papers by Manyong Han:</h2>
+<p>
+<b>Title:</b> <i> Virtual Occupant Model for Riding Comfort Simulation </i> <br />
+<b>Authors:</b> <a href="../authors/author_43.html">Hyung Yun Choi</a>, <a href="../authors/author_100.html">Manyong Han</a>, <a href="../authors/author_112.html">Akinari Hirao</a> and <a href="../authors/author_173.html">Hisayoshi Matsuoka</a><br />
+<b>Abstract:</b>A digital human body model as a virtual occupant surrogate for the riding comfort simulation is developed for both 1D lumped network (Modelica) and 3D mesh based (Finite Element) solutions. Since the composition of 1D and 3D versions of the human body model has a similar multibody system architecture, the kinematic responses from both solutions are almost equivalent. The models are therefore complementary, since the economic 1D models can serve effectively in design exploration and optimization, while their sophisticated 3D counterparts can serve in final design validation. The detailed modeling process and validation results against standard seat vibration excitation test are introduced in this paper, preparing the models for use in seat design.<br />
+<b>Links:</b> <a href="../submissions/ecp1713227_ChoiHanHiraoMatsuoka.pdf">Full paper</a></p>

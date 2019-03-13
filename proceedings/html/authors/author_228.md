@@ -1,0 +1,6 @@
+<h2>Papers by Matthias Reiner:</h2>
+<p>
+<b>Title:</b> <i> The DLR Environment Library for Multi-Disciplinary Aerospace Applications </i> <br />
+<b>Authors:</b> <a href="../authors/author_36.html">Lâle Evrim Briese</a>, <a href="../authors/author_139.html">Andreas Klöckner</a> and <a href="../authors/author_228.html">Matthias Reiner</a><br />
+<b>Abstract:</b>Environment models are vital elements for any type of vehicle dynamics simulations, such as aircraft or satellites. Recently, applications have been developed, where these previously unrelated regimes of operation need to be integrated, for example in end-to-end simulations of launch vehicles. This paper therefore introduces the new DLR Environment Library, which implements common models of planets, geospheres, currents, kinematics, and physical effects for such applications. It provides a set of environment models with minimal dependencies, complete compatibility to the Modelica Standard Library, and convenient drag & drop usage. The DLR Environment Library is expected to immensely aid developing end-to-end simulation models integrating components from DLR's SpaceSystems and FlightDynamics Libraries. In particular, it will importantly decrease modeling errors due to its consistent environment models.<br />
+<b>Links:</b> <a href="../submissions/ecp17132929_BrieseKlocknerReiner.pdf">Full paper</a></p>

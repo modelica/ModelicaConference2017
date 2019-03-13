@@ -1,0 +1,42 @@
+<h2>Session 10A: FMI II</h2>
+<p>
+<b>Title:</b> <i> FMI Go! A simulation runtime environment with a client server   architecture over multiple protocols </i> <br />
+<b>Authors:</b> <a href="../authors/author_150.html">Claude Lacoursière</a> and <a href="../authors/author_101.html">Tomas Härdin</a><br />
+<b>Abstract:</b>We present a software infrastructure to perform distributed simulations
+  with Functional Mockup Interface (FMI) compatible components.
+  Distribution is achieved done by mapping the FMI API to a communication
+  protocol with current support for both TCP/IP and MPI.  This is a
+  client-server architecture where the client is the global simulation
+  stepper and the servers are the simulation modules.  The client contains
+  several time stepping algorithms, root finding for cases involving loops,
+  and support for asynchronous data exchange with ``monitors'' and
+  ``observers'' which only consume data.  The servers provide support for
+  numerical directional derivatives, filtering, and interpolation.
+  Extensive support is provided for the System Specification and
+  Parameterization (SSP), an emerging standard aimed at supporting the FMI.
+
+  The software is open source with a permissive license and designed to be
+  used inside simulation environments and platforms with user interfaces.
+  The focus being strictly on the mathematical and runtime aspect of FMI
+  based simulations.<br />
+<b>Links:</b> <a href="../submissions/ecp17132653_LacoursiereHardin.pdf">Full paper</a></p>
+<hr />
+<p>
+<b>Title:</b> <i> Building Parallel FMUs (or Matryoshka Co-Simulations) </i> <br />
+<b>Authors:</b> <a href="../authors/author_81.html">Virginie Galtier</a>, <a href="../authors/author_118.html">Michel Ianotto</a>, <a href="../authors/author_42.html">Mathieu Caujolle</a>, <a href="../authors/author_48.html">Rémi Corniglion</a>, <a href="../authors/author_267.html">Jean-Philippe Tavella</a>, <a href="../authors/author_67.html">José Évora Gómez</a>, <a href="../authors/author_109.html">José Juan Hernández Cabrera</a>, <a href="../authors/author_227.html">Vincent Reinbold</a> and <a href="../authors/author_144.html">Enrique Kremers</a><br />
+<b>Abstract:</b>The development of complex multi-domain and multi-physic systems, such as Smart Electric Grids, have given rise to new challenges in the simulation domain. These challenges concern the capability to  couple multiple domain specific simulators, and the FMI standard is an answer to this. But they also concern the scalability and the accuracy of the simulation within an heterogenous system. We propose and implement here the concept of a Matryoshka FMU, i.e.~a first of its kind FMU that encapsulates DACCOSIM -- our distributed and parallel master architecture -- and several FMUs it controls. The Matryoshka automatically adapts its internal time steps to ensure the required accuracy while it is controlled by an external FMU-compliant simulator. We present the JavaFMI tools and the DACCOSIM middleware used in the automatic building process of such Matryoshka FMUs.~This approach is then applied on a real-life Distributed Energy System scenario. In regards of the Modelica system simulated  in Dymola, improvements up to 250% in terms of computational performance are achieved while preserving the simulation accuracy and enhancing its integration capability.<br />
+<b>Links:</b> <a href="../submissions/ecp17132663_GaltierIanottoCaujolleCorniglionTavellaEvoragomezHernandezcabreraReinboldKremers.pdf">Full paper</a></p>
+<hr />
+<p>
+<b>Title:</b> <i> Scaling FMI-CS Based Multi-Simulation Beyond Thousand FMUs on Infiniband Cluster </i> <br />
+<b>Authors:</b> <a href="../authors/author_288.html">Stephane Vialle</a>, <a href="../authors/author_267.html">Jean-Philippe Tavella</a>, <a href="../authors/author_51.html">Cherifa Dad</a>, <a href="../authors/author_47.html">Remi Corniglion</a>, <a href="../authors/author_42.html">Mathieu Caujolle</a> and <a href="../authors/author_227.html">Vincent Reinbold</a><br />
+<b>Abstract:</b>In recent years, co-simulation has become an increasingly industrial tool to simulate Cyber Physical Systems including multi-physics and control, like smart electric grids, since it allows to involve different modeling tools within the same temporal simulation. The challenge now is to integrate in a single calculation scheme very numerous and intensely inter-connected models, and to do it without any loss in model accuracy. This will avoid neglecting fine phenomena or moving away from the basic principle of equation-based modeling.
+
+Offering both a large number of computing cores and a large amount of distributed memory, multi-core PC clusters can address this key issue in order to achieve huge multi-simulations in acceptable time. This paper introduces all our efforts to parallelize and distribute our co-simulation environment based on the FMI for Co-Simulation standard (FMI-CS). At the end of 2016 we succeeded to scale beyond 1000 FMUs and 1000 computing cores on different PC-clusters, including the most recent HPC Infiniband-cluster available at EDF.<br />
+<b>Links:</b> <a href="../submissions/ecp17132673_VialleTavellaDadCorniglionCaujolleReinbold.pdf">Full paper</a></p>
+<hr />
+<p>
+<b>Title:</b> <i> Development of an open source multi-platform software tool for parameter estimation studies in FMI models </i> <br />
+<b>Authors:</b> <a href="../authors/author_31.html">Javier Bonilla</a>, <a href="../authors/author_40.html">Jose Antonio Carballo</a>, <a href="../authors/author_231.html">Lidia Roca</a> and <a href="../authors/author_25.html">Manuel Berenguel</a><br />
+<b>Abstract:</b>This paper presents the current development of an open source multi-platform software tool intended for estimating or optimizing parameters of FMI compliant models. Parameter estimation and optimization is a powerful tool in many engineering and science fields. Nevertheless, the effort and time that must be devoted to coupling and integrating complex modeling languages and tools together with analysis and optimization methods and algorithms sometimes is high. As a consequence of that, commonly the most convenient and easy-to-use optimization mechanisms are applied. Therefore, the focus on the development of this tool is in facilitating such coupling while being customizable. The main toolkit and libraries used in the development of the tool are presented, all of them are open source. Two application examples are also presented, one of them is a parameter optimization study considering a steady state model, while the other is a parameter estimation study of a dynamic model against experimental data. Finally, current tool limitations are presented, ongoing work and ideas for future features are also commented.<br />
+<b>Links:</b> <a href="../submissions/ecp17132683_BonillaCarballoRocaBerenguel.pdf">Full paper</a></p>

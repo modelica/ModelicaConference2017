@@ -1,0 +1,6 @@
+<h2>Papers by Arnim von Manstein:</h2>
+<p>
+<b>Title:</b> <i> Simulative Comparison of Mobile Air-Conditioning Concepts for Mechanical and Electrical Driven Systems </i> <br />
+<b>Authors:</b> <a href="../authors/author_289.html">Arnim von Manstein</a>, <a href="../authors/author_159.html">Dirk Limperich</a> and <a href="../authors/author_12.html">Shivakumar Banakar</a><br />
+<b>Abstract:</b>Ever increasing energy demand and the stringent emission norms have resulted in the need for developing more efficient automotive systems. Fuel economy and emission targets are the two important driving factors in the development of an automobile. Efficiency of a Mobile Air-Conditioning system (MAC) has a considerable impact on the fuel economy of an automobile. This study involves simulative comparison of MAC concepts for mechanical & electrical driven systems. System models are developed for MAC concepts using Dymola simulation tool. Drive cycles considered in this study corresponds to the real time driving scenarios and ambient conditions. From this study the conclusions are drawn about the most efficient ways to reach the thermal comfort for the passenger cabin in an automobile.<br />
+<b>Links:</b> <a href="../submissions/ecp17132783_VonmansteinLimperichBanakar.pdf">Full paper</a></p>

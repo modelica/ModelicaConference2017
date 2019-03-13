@@ -1,0 +1,10 @@
+<h2>Papers by Daniel Bouskela:</h2>
+<p>
+<b>Title:</b> <i> Modeling and simulation of complex ThermoSysPro model with OpenModelica - Dynamic Modeling of a combined cycle power plant </i> <br />
+<b>Authors:</b> <a href="../authors/author_63.html">Baligh El Hefni</a> and <a href="../authors/author_32.html">Daniel Bouskela</a><br />
+<b>Abstract:</b>ThermoSysPro (TSP) is a generic library for the modeling and simulation of power plants and other kinds of energy systems. TSP library is developed by EDF and released under open source license. The library features multi-domain modeling such as thermal-hydraulics, neutronics, combustion, solar radiation, instrumentation and control. 
+Numerous organizations and individuals worldwide now use TSP. Until recently, the TSP library could be used only under Dymola for the modeling and simulation of complex power plants. But now, with the latest version of OpenModelica (OM), we can simulate complex models of power plants with complex scenarios.
+To be able to use TSP under OM, some adaptations have been applied in our models, essentially the method used to make inverse computation. 
+The objective of this work is to evaluate the potentiality, capability and efficiency of using OpenModelica tools to perform dynamic studies of power plants. A combined cycle power plant has been chosen as a representative test case of the complexity of this type of study.
+The paper describes the dynamic model of a combined cycle power plant, whose objective is to study a step variation load from 100% to 50% and a full gas turbine trip, using OM software. Also, the structure of the model, the parameterization data, the results of simulation runs, the difficulties encountered using OM and the comparing between Dymola and OM are presented.<br />
+<b>Links:</b> <a href="../submissions/ecp17132407_ElhefniBouskela.pdf">Full paper</a></p>

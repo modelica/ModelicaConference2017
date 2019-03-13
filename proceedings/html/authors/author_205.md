@@ -1,0 +1,6 @@
+<h2>Papers by Koichi Ohtomi:</h2>
+<p>
+<b>Title:</b> <i> Integration Modelica with Digital Mockup Tool using the FMI </i> <br />
+<b>Authors:</b> <a href="../authors/author_172.html">Shinji Matsuda</a>, <a href="../authors/author_280.html">Hiroshi Toriya</a>, <a href="../authors/author_261.html">Hiromasa Suzuki</a> and <a href="../authors/author_205.html">Koichi Ohtomi</a><br />
+<b>Abstract:</b>Delight Design Platform Project is the project managed by The University of Tokyo as one of the projects included in the Cross-ministerial Strategic Innovation Program (SIP) which is organized by Cabinet Office, Government of Japan. In this project, 1DCAE tool is recommended as a design tool in the concept phase of the product development. In the Delight Design Platform the concept of the new product is simulated with 1DCAE model and evaluated. Prototyping a tool for translating the concept to 3D model is one of the objectives of the project. This paper describes a method of the integration Modelica with 3D digital mockup (DMU) tool. The prototype is implemented as an extension of the XVL Studio which is one of the most popular DMU tools provided by Lattice Technology Co.,Ltd. The integration is realized by the technology of FMI (Functional Mockup Interface).<br />
+<b>Links:</b> <a href="../submissions/ecp17132547_MatsudaToriyaSuzukiOhtomi.pdf">Full paper</a></p>

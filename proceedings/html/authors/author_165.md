@@ -1,0 +1,6 @@
+<h2>Papers by Gianantonio Magnani:</h2>
+<p>
+<b>Title:</b> <i> Model Based Analysis of Shimmy in a Racing Bicycle </i> <br />
+<b>Authors:</b> <a href="../authors/author_279.html">Nicolò Tomiati</a>, <a href="../authors/author_165.html">Gianantonio Magnani</a>, <a href="../authors/author_237.html">Bruno Scaglioni</a> and <a href="../authors/author_70.html">Gianni Ferretti</a><br />
+<b>Abstract:</b>In this paper we are presenting a model of a racing bicycle, developed in Modelica language within the Dymola environment. The main purpose is to investigate the dynamic response of the bicycle and its modes of vibration, referring in particular to shimmy. This phenomenon occurs at high speeds and consists of sudden oscillations of the front assembly around the steering axis. Lateral accelerations on the horizontal tube of the frame can reach 5-10 g with a frequency that varies between 5-10 Hz. Even if it is quite uncommon, shimmy is a topic of great relevance, because it may be extremely dangerous for the rider. Thanks to this model, we can show that the main elements which contribute to the rise of the oscillations are the lateral compliance of the frame and the tyres’ deformation.<br />
+<b>Links:</b> <a href="../submissions/ecp17132441_TomiatiMagnaniScaglioniFerretti.pdf">Full paper</a></p>

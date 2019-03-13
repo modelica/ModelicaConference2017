@@ -1,0 +1,8 @@
+<h2>Papers by Karsten Todtermuschke:</h2>
+<p>
+<b>Title:</b> <i> The Embedded Simulation via FMI and its Application to the Simulation of Lifetime Tests Including Wear </i> <br />
+<b>Authors:</b> <a href="../authors/author_97.html">Julia Gundermann</a>, <a href="../authors/author_270.html">Matthias Thiele</a>, <a href="../authors/author_74.html">Sebastian Fraulob</a>, <a href="../authors/author_291.html">Susanne Walther</a>, <a href="../authors/author_278.html">Karsten Todtermuschke</a> and <a href="../authors/author_241.html">Uwe Schnabel</a><br />
+<b>Abstract:</b>The "Embedded Simulation via FMI" is a new modeling approach which allows for efficient and fast computation of systems with a clear separation of time axis or time
+scale. For its application the so-called "inner model" is wrapped into an FMU and embedded into an outer model, whose dynamics control the integration. The computation
+of the embedded model is only utilized on demand. In this way the "Embedded Simulation via FMI" uses the Functional Mock-up Interface for Co-Simulation in a different way than it was provided for. The functionality has been realized within SimulationX prototypically. It is applied to the simulation of the lifetime test of a linear stepper motor including wear in the screw drive, for which the axial play after several months’ runtime shall be determined. A significant reduction of computing time while preserving considerable accuracy can be shown.<br />
+<b>Links:</b> <a href="../submissions/ecp17132541_GundermannThieleFraulobWaltherTodtermuschkeSchnabel.pdf">Full paper</a></p>

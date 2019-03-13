@@ -1,0 +1,6 @@
+<h2>Papers by Marek Matejak:</h2>
+<p>
+<b>Title:</b> <i> Integrative physiology in Modelica </i> <br />
+<b>Authors:</b> <a href="../authors/author_142.html">Jiří Kofránek</a>, <a href="../authors/author_147.html">Tomas Kulhanek</a>, <a href="../authors/author_171.html">Marek Matejak</a>, <a href="../authors/author_124.html">Filip Ježek</a> and <a href="../authors/author_251.html">Jan Šilar</a><br />
+<b>Abstract:</b>The integrative model of human physiology connects individual physiological subsystems into a single unit. They are very large (contain thousands of variables) and represent a formalized description of interconnected physiological regulations. The issue of formalization of physiological systems became part of a series of international projects (e.g. the worldwide program "PHYSIOME", or the European program "VIRTUAL PHYSIOLOGICAL HUMAN"). The development of large-scale models of human physiology was facilitated by a new generation (i.e. equation-based) simulation environment, especially by Modelica language. These models can be used to explain the causal relations of the pathogenesis of many diseases, they can be applied in the evaluation of clinical trials and they can also be used in the core of sophisticated medical simulators.<br />
+<b>Links:</b> <a href="../submissions/ecp17132589_KofranekKulhanekMatejakJezekSilar.pdf">Full paper</a></p>

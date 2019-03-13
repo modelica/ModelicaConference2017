@@ -1,0 +1,7 @@
+<h2>Papers by Paolo Albertelli:</h2>
+<p>
+<b>Title:</b> <i> Object-oriented modelling of a flexible beam including geometric nonlinearities </i> <br />
+<b>Authors:</b> <a href="../authors/author_120.html">Davide Invernizzi</a>, <a href="../authors/author_237.html">Bruno Scaglioni</a>, <a href="../authors/author_70.html">Gianni Ferretti</a> and <a href="../authors/author_3.html">Paolo Albertelli</a><br />
+<b>Abstract:</b>In this paper, an efficient approach for the modelling and simulation of slender beams subject to heavy inertial loads is presented. The limitations imposed by a linear formulation of elasticity are overcome by a second order expansion of the displacement field, based on a geometrical exact beam model. In light of this, the nonlinearities of the elastic terms are shifted as inertial contributions, which yields an expression of the equations of motion in closed form. Thanks to the formulation in closed form, the proposed model is implemented in Modelica, with particular care to the suitability of the model with respect to the Modelica Multibody library.
+After describing the model formulation and implementation, the paper presents some simulation results, in order to validate the model with respect to benchmarks, widely adopted in literature.<br />
+<b>Links:</b> <a href="../submissions/ecp17132735_InvernizziScaglioniFerrettiAlbertelli.pdf">Full paper</a></p>
