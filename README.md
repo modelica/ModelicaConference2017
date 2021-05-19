@@ -20,7 +20,7 @@ The conference program, book of abstracts and other information are available he
 * [Practical Information for Exhibitors](files/copy_of_sitePlanExhibtors.jpg)
 * [Video Invitation](http://modelica.cz/video/ModelicaSpot_2017_LQ.mp4)
 * Thank you all for coming! [(Modelica 2017 Photos)](http://modelica.cz/modelica-2017-photos/)
-* [(FMI user meeting)](fmi-user-meeting.html)
+* [FMI user meeting](fmi-user-meeting.html)
 
 
 # Conference Venue
